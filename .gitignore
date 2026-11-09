@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+
+# Binaries & APKs (Text and links only repo)
+*.apk
+*.dex
+*.jar
+*.aar
+*.so
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
