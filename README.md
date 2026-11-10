@@ -1,6 +1,7 @@
 # AI-Reverse-Engineer: App Reverse Engineering with Just 8GB VRAM
 
 [![Russian Version](https://img.shields.io/badge/Language-Русский-blue.svg)](README_RU.md)
+[![Promo Posts](https://img.shields.io/badge/Promo%20Posts-RU%20%2F%20EN-purple.svg)](PROMO.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Hardware: 8GB VRAM](https://img.shields.io/badge/Hardware-8GB%20VRAM%20Compatible-orange.svg)](https://www.nvidia.com)
 
