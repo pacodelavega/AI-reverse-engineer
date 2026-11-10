@@ -1,4 +1,4 @@
-# AI-Reverse-Engineer: Руководство по реверс-инжинирингу приложений на видеокарте с 8 ГБ VRAM
+# AI-Reverse-Engineer: Пример реверс-инжиниринга с видеокартой 8 ГБ VRAM и [cli-subagent](https://github.com/pacodelavega/cli-subagent)
 
 [![English Version](https://img.shields.io/badge/Language-English-blue.svg)](README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
